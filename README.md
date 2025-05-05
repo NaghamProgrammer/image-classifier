@@ -147,4 +147,4 @@ Project Link: [https://github.com/NaghamProgrammer/flower-classifier](https://gi
 
 ---
 
-Made with ❤️ and PyTorch by [Nagham Wael]
+Made with ❤️ and PyTorch by Nagham Wael
