@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Maintainer - [Nagham Wael](naghamw63@gmail.com)
 
-Project Link: [https://github.com/yourusername/flower-classifier](https://github.com/yourusername/flower-classifier)
+Project Link: [https://github.com/NaghamProgrammer/flower-classifier](https://github.com/yourusername/flower-classifier)
 
 ---
 
